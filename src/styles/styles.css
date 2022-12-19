@@ -1,0 +1,18 @@
+.container {
+    background: #e8e8e8;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+h1 {
+    margin-top: 0;
+    margin-left: 42%;
+}
+
+.webpackImage {
+    background-image: url("./../assets/webpack-logo.png");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 30vh auto;
+}
